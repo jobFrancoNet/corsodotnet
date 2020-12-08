@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoConsole_Core": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
