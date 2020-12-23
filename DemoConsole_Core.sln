@@ -4,11 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoConsole_Core", "DemoConsole_Core\DemoConsole_Core.csproj", "{643FF3EF-EA36-448D-BB2E-A6EFDCB1B795}"
-<<<<<<< HEAD
-=======
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "demo_aspcore", "..\..\..\..\..\..\demo_aspcore\demo_aspcore.csproj", "{7CE6592B-6870-4CBA-9338-F5D6D8576B4D}"
->>>>>>> 41808f8dca1cc7c496590b31a8ac49d153d352fd
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
